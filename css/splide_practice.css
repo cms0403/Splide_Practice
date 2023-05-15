@@ -1,0 +1,13 @@
+li {
+    list-style-type: none;
+}
+.span_01 {
+    color:wheat;
+}
+.span_02 {
+    color:salmon;
+}
+#splide_practice {
+    width:1200px;
+    height:200px;
+}
